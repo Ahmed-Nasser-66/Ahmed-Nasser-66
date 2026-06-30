@@ -75,7 +75,7 @@
 
 A smart event management mobile application built with Flutter.
 
-✨ Features:
+🔥 Features:
 - Authentication
 - Event Booking
 - QR Code Tickets
