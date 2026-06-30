@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-nasser66" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Ahmed-Nasser-66" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github logo" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub" />
   </a>
   <a href="mailto:ahmedmlegy66@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Email" />
   </a>
 </div>
 
@@ -24,58 +24,84 @@
 
 ###
 
-<h1 align="center" style="color:white;">Hey there 👋, I'm Ahmed Nasser Hosny</h1>
+<h1 align="center">Hey there 👋, I'm Ahmed Nasser Hosny</h1>
 
 ###
 
-<h3 align="center" style="color:#58a6ff;">🚀 Junior Flutter Developer | Data Entry Specialist</h3>
+<h3 align="center">🚀 Junior Flutter Developer | Data Entry Specialist</h3>
 
 ###
 
-<p align="center" style="color:#c9d1d9;">
-  I'm currently a student at <b>El-Shorouk Academy</b> 🎓<br>
-  <b>4th year, Business Information Systems</b><br><br>
-  - 🔭 I’m learning <b>Dart & Flutter</b> deeply.<br>
-  - 🌱 I’m building mobile apps and improving every day.<br>
-  - 💬 Ask me about <b>Flutter, Dart, Firebase, APIs</b>.<br>
+<p align="center">
+🎓 <b>Business Information Systems Graduate</b><br>
+<b>El-Shorouk Academy</b><br><br>
+
+💙 Passionate <b>Junior Flutter Developer</b> focused on building modern, responsive, and scalable mobile applications.<br>
+🚀 Experienced with <b>Flutter, Dart, Firebase, REST APIs, Provider, Git & GitHub</b>.<br>
+🌱 Continuously learning and improving my skills to build high-quality mobile applications.
 </p>
 
 ###
 
-<h3 align="left" style="color:#58a6ff;">🛠 Languages and Tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,cs,vscode,git,github,androidstudio,postman" />
 </div>
 
 ###
 
-<h3 align="left" style="color:#58a6ff;">🔥 My GitHub Stats</h3>
+<h3 align="left">🔥 GitHub Statistics</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahmed-Nasser-66&theme=github-dark&hide_border=false" height="200" alt="streak graph" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Nasser-66&show_icons=true&theme=github_dark&hide_border=false" height="200" alt="github stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Nasser-66&layout=compact&theme=github_dark&hide_border=false" height="200" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Ahmed-Nasser-66&theme=github-dark&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-Nasser-66&theme=github_dark" width="100%" />
+
 </div>
 
 ###
 
-<h3 align="center" style="color:#58a6ff;">🚀 "I’m a passionate Flutter developer focused on building modern and efficient mobile apps using Dart and Firebase." 🚀</h3>
+<h3 align="left">🚀 Featured Project</h3>
+
+<table>
+<tr>
+<td width="100%">
+
+### 🎫 Event Hub
+
+A smart event management mobile application built with Flutter.
+
+✨ Features:
+- Authentication
+- Event Booking
+- QR Code Tickets
+- Google Maps
+- Favorites
+- REST APIs
+- Provider State Management
+
+**Tech Stack:** Flutter • Dart • Firebase • REST APIs • Provider
+
+🔗 Repository:
+https://github.com/Ahmed-Nasser-66/event_hub
+
+</td>
+</tr>
+</table>
+
+###
+
+<h3 align="center">
+🚀 Building modern, responsive, and scalable mobile applications with Flutter, Dart, Firebase, and REST APIs.
+</h3>
+
+###
+
+<div align="center">
+
+
+</div>
